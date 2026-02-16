@@ -1,4 +1,4 @@
-numbers = input("Введите числа через пробел: ")
+numbers = input("Введите числа: ")
 numbers_list = numbers.split()
 
 unique_list = []
